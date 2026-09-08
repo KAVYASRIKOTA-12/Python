@@ -1,4 +1,4 @@
-# Python Full Stack Learning
+# Python Learning
 
 Welcome to my Python Full Stack learning repository.
 
